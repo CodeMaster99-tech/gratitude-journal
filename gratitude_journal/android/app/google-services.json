@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "428332079370",
+    "project_id": "gratitudejournal-b576d",
+    "storage_bucket": "gratitudejournal-b576d.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:428332079370:android:fad00433cc8a312803c2f3",
+        "android_client_info": {
+          "package_name": "com.example.gratitude_journal"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLHcLioQnCD_Pxa26aHKSIY5vt2ID_tR4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
